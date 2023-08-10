@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This app was built to showcase the pageturn effect highlighted in the below tutorial:
+
+https://www.youtube.com/watch?v=S4HYwsBRpRs&ab_channel=developedbyed
+
+Powered by framer motion: https://www.npmjs.com/package/framer-motion
+
 ## Getting Started
 
 First, run the development server:
